@@ -1,0 +1,312 @@
+Oct 27 11:15:59 Hallo World
+Oct 27 11:15:59 Management sid[0001]: Invalid User or Password for Ali from 10.20.30.1 by qwe.ali@gamil.com
+Oct 27 11:15:59 Other sid[0003]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:15:59 Operations sid[0004]: Accepted password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:16:00 Operations sid[0005]: session opened for user Mohammad for sid2[0004]
+Oct 27 11:16:03 Operations sid[0006]: session closed for user Mohammad for sid2[0005]
+Oct 27 11:16:03 Sales sid[0007]: Accepted password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:16:04 Sales sid[0008]: session opened for user Ameer for sid2[0007]
+Oct 27 11:16:07 Sales sid[0009]: session closed for user Ameer for sid2[0008]
+Oct 27 11:16:07 Other sid[0010]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:07 Operations sid[0011]: Accepted password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:16:08 Operations sid[0012]: session opened for user Ali2 for sid2[0011]
+Oct 27 11:16:11 Operations sid[0013]: session closed for user Ali2 for sid2[0012]
+Oct 27 11:16:11 Sales sid[0014]: Invalid User or Password for Alaa2 from 10.20.30.8 by qwe.alaa2@gamil.com
+Oct 27 11:16:11 Management sid[0015]: Invalid User or Password for Ahmed2 from 10.20.30.9 by qwe.ahmed2@gamil.com
+Oct 27 11:16:11 Other sid[0017]: Invalid Department for Ameer2 from 10.20.30.11 by AMEER2@GAMIL.COM
+Oct 27 11:16:11 Other sid[0019]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:16:11 Other sid[0020]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:16:11 Finance sid[0021]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:16:11 Operations sid[0022]: Accepted password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:16:12 Operations sid[0023]: session opened for user Mohammad for sid2[0022]
+Oct 27 11:16:15 Operations sid[0024]: session closed for user Mohammad for sid2[0023]
+Oct 27 11:16:15 Marketing sid[0026]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:15 Operations sid[0027]: Invalid user/password for Ali2 from 37.59.116.88 by ALI2@GAMIL.COM
+Oct 27 11:16:15 Sales sid[0028]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:16:15 Management sid[0029]: Invalid user/password for Ahmed2 from 117.74.128.145 by AHMED2@GAMIL.COM
+Oct 27 11:16:15 Marketing sid[0030]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:16:15 Marketing sid[0031]: Invalid User/Password for Ameer2_qwe from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:16:15 Other sid[0032]: Invalid user/password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:16:18 Management sid[0035]: session closed for user Ali
+Oct 27 11:16:18 Other sid[0036]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:16:18 Operations sid[0037]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:16:18 Other sid[0038]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:16:18 Operations sid[0040]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:16:18 Sales sid[0041]: Invalid Admin User Alaa2@Admin from 10.20.30.8 By alaa2@gamil.com
+Oct 27 11:16:18 Other sid[0042]: Invalid Department for Ahmed2 from 10.20.30.9 by AHMED2@GAMIL.COM
+Oct 27 11:16:18 Marketing sid[0043]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:16:18 Other sid[0044]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:16:18 Other sid[0046]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:16:18 Finance sid[0048]: Invalid Admin User Ahmed@Admin from 10.20.30.3 By ahmed@gamil.com
+Oct 27 11:16:18 Operations sid[0049]: Invalid User/Password for Mohammad_qwe from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:16:18 Other sid[0051]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:19 Other sid[0052]: session opened for user Blal for sid2[0051]
+Oct 27 11:16:22 Other sid[0053]: session closed for user Blal for sid2[0052]
+Oct 27 11:16:22 Operations sid[0054]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:16:22 Sales sid[0055]: Accepted password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:16:23 Sales sid[0056]: session opened for user Alaa2 for sid2[0055]
+Oct 27 11:16:26 Sales sid[0057]: session closed for user Alaa2 for sid2[0056]
+Oct 27 11:16:26 Management sid[0058]: Accepted password for Ahmed2@admin from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:16:27 Management sid[0059]: session opened for user Ahmed2 for sid2[0058]
+Oct 27 11:16:30 Management sid[0060]: session closed for user Ahmed2 for sid2[0059]
+Oct 27 11:16:30 Other sid[0061]: Invalid User or Password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:16:30 Marketing sid[0062]: Accepted password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:16:31 Marketing sid[0063]: session opened for user Ameer2 for sid2[0062]
+Oct 27 11:16:34 Marketing sid[0064]: session closed for user Ameer2 for sid2[0063]
+Oct 27 11:16:34 Other sid[0065]: Invalid user/password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:16:34 Management sid[0066]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:16:34 Marketing sid[0067]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:16:35 Marketing sid[0068]: session opened for user Alaa for sid2[0067]
+Oct 27 11:16:38 Marketing sid[0069]: session closed for user Alaa for sid2[0068]
+Oct 27 11:16:38 Other sid[0070]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:16:38 Operations sid[0071]: Invalid user/password for Mohammad from 62.125.179.195 by MOHAMMAD@GAMIL.COM
+Oct 27 11:16:38 Other sid[0072]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:16:38 Other sid[0073]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:39 Other sid[0074]: session opened for user Blal for sid2[0073]
+Oct 27 11:16:42 Other sid[0075]: session closed for user Blal for sid2[0074]
+Oct 27 11:16:42 Operations sid[0076]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:16:42 Management sid[0078]: Accepted password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:16:43 Management sid[0079]: session opened for user Ahmed2 for sid2[0078]
+Oct 27 11:16:46 Management sid[0080]: session closed for user Ahmed2 for sid2[0079]
+Oct 27 11:16:46 Marketing sid[0082]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:16:46 Management sid[0084]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:16:46 Marketing sid[0085]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:16:46 Finance sid[0086]: Accepted password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:16:47 Finance sid[0087]: session opened for user Ahmed for sid2[0086]
+Oct 27 11:16:50 Finance sid[0088]: session closed for user Ahmed for sid2[0087]
+Oct 27 11:16:50 Sales sid[0090]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:16:50 Other sid[0091]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:51 Other sid[0092]: session opened for user Blal for sid2[0091]
+Oct 27 11:16:54 Other sid[0093]: session closed for user Blal for sid2[0092]
+Oct 27 11:16:54 Operations sid[0094]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:16:54 Sales sid[0095]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:16:54 Management sid[0096]: Invalid user/password for Ahmed2 from 42.7.254.194 by AHMED2@GAMIL.COM
+Oct 27 11:16:54 Marketing sid[0097]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:16:54 Marketing sid[0098]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:16:54 Finance sid[0099]: Invalid User or Password for Blal2 from 10.20.30.12 by qwe.blal2@gamil.com
+Oct 27 11:16:54 Management sid[0100]: Invalid User or Password for Ali from 10.20.30.1 by qwe.ali@gamil.com
+Oct 27 11:16:54 Other sid[0101]: Invalid Department for Alaa from 10.20.30.2 by ALAA@GAMIL.COM
+Oct 27 11:16:54 Finance sid[0102]: Invalid User or Password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:16:54 Operations sid[0103]: Invalid user/password for Mohammad from 208.14.148.33 by MOHAMMAD@GAMIL.COM
+Oct 27 11:16:54 Other sid[0105]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:16:54 Other sid[0106]: Invalid Department for Ali2 from 10.20.30.7 by ALI2@GAMIL.COM
+Oct 27 11:16:54 Other sid[0107]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:16:54 Management sid[0108]: Accepted password for Ahmed2@Admin from 10.20.30.9 By ahmed2@gamil.com
+Oct 27 11:16:55 Management sid[0109]: Session Opened for user ahmed2 for sid2[0108]
+Oct 27 11:16:58 management sid[0110]: session closed for user Ahmed2
+Oct 27 11:16:58 Other sid[0111]: Accepted password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:16:59 Other sid[0112]: session opened for user Mohammad2 for sid2[0111]
+Oct 27 11:17:02 Other sid[0113]: session closed for user Mohammad2 for sid2[0112]
+Oct 27 11:17:02 Finance sid[0115]: Invalid User or Password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:17:02 Management sid[0116]: Accepted password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:17:03 Management sid[0117]: session opened for user Ali for sid2[0116]
+Oct 27 11:17:06 Management sid[0118]: session closed for user Ali for sid2[0117]
+Oct 27 11:17:06 Marketing sid[0119]: Invalid User/Password for Alaa_qwe from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:17:06 Other sid[0120]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:17:06 Operations sid[0121]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:17:06 Other sid[0123]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:17:07 Other sid[0124]: session opened for user Blal for sid2[0123]
+Oct 27 11:17:10 Other sid[0125]: session closed for user Blal for sid2[0124]
+Oct 27 11:17:10 Operations sid[0126]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:17:10 Sales sid[0127]: Accepted password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:17:11 Sales sid[0128]: session opened for user Alaa2 for sid2[0127]
+Oct 27 11:17:14 Sales sid[0129]: session closed for user Alaa2 for sid2[0128]
+Oct 27 11:17:14 Management sid[0130]: Accepted password for Ahmed2@admin from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:17:15 Management sid[0131]: session opened for user Ahmed2 for sid2[0130]
+Oct 27 11:17:18 Management sid[0132]: session closed for user Ahmed2 for sid2[0131]
+Oct 27 11:17:18 Marketing sid[0134]: Invalid User/Password for Ameer2_qwe from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:17:18 Finance sid[0135]: Accepted password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:17:19 Finance sid[0136]: session opened for user Blal2 for sid2[0135]
+Oct 27 11:17:22 Finance sid[0137]: session closed for user Blal2 for sid2[0136]
+Oct 27 11:17:22 Management sid[0138]: Invalid User/Password for Ali_qwe from 10.20.30.1 by ali@gamil.com
+Oct 27 11:17:22 Marketing sid[0139]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:17:23 Marketing sid[0140]: session opened for user Alaa for sid2[0139]
+Oct 27 11:17:26 Marketing sid[0141]: session closed for user Alaa for sid2[0140]
+Oct 27 11:17:26 Other sid[0142]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:17:29 Operations sid[0145]: session closed for user Mohammad
+Oct 27 11:17:29 Other sid[0145]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:17:29 Other sid[0146]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:17:30 Other sid[0147]: session opened for user Blal for sid2[0146]
+Oct 27 11:17:33 Other sid[0148]: session closed for user Blal for sid2[0147]
+Oct 27 11:17:33 Other sid[0149]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:17:33 Other sid[0150]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:17:33 Management sid[0151]: Invalid User or Password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:17:33 Other sid[0153]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:17:33 Finance sid[0154]: Invalid User or Password for Blal2 from 10.20.30.12 by qwe.blal2@gamil.com
+Oct 27 11:17:33 Management sid[0155]: Invalid User or Password for Ali from 10.20.30.1 by qwe.ali@gamil.com
+Oct 27 11:17:33 Finance sid[0157]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:17:33 Operations sid[0158]: Accepted password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:17:34 Operations sid[0159]: session opened for user Mohammad for sid2[0158]
+Oct 27 11:17:37 Operations sid[0160]: session closed for user Mohammad for sid2[0159]
+Oct 27 11:17:37 Other sid[0161]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:17:37 Other sid[0162]: Accepted password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:17:38 Other sid[0163]: session opened for user Blal for sid2[0162]
+Oct 27 11:17:41 Other sid[0164]: session closed for user Blal for sid2[0163]
+Oct 27 11:17:44 Operations sid[0167]: session closed for user Ali2
+Oct 27 11:17:44 Sales sid[0167]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:17:44 Management sid[0168]: Accepted password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:17:45 Management sid[0169]: session opened for user Ahmed2 for sid2[0168]
+Oct 27 11:17:48 Management sid[0170]: session closed for user Ahmed2 for sid2[0169]
+Oct 27 11:17:48 Other sid[0171]: Invalid User or Password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:17:48 Marketing sid[0172]: Accepted password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:17:49 Marketing sid[0173]: session opened for user Ameer2 for sid2[0172]
+Oct 27 11:17:52 Marketing sid[0174]: session closed for user Ameer2 for sid2[0173]
+Oct 27 11:17:52 Other sid[0176]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:17:52 Marketing sid[0177]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:17:52 Other sid[0178]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:17:52 Other sid[0179]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:17:52 Sales sid[0180]: Accepted password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:17:53 Sales sid[0181]: session opened for user Ameer for sid2[0180]
+Oct 27 11:17:56 Sales sid[0182]: session closed for user Ameer for sid2[0181]
+Oct 27 11:17:56 Other sid[0183]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:17:56 Other sid[0184]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:17:56 Other sid[0185]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:17:56 Management sid[0186]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:17:56 Other sid[0187]: Invalid Admin User Mohammad2@Admin from 10.20.30.10 By mohammad2@gamil.com
+Oct 27 11:17:56 Other sid[0188]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:17:56 Finance sid[0189]: Invalid Admin User Blal2@Admin from 10.20.30.12 By blal2@gamil.com
+Oct 27 11:17:56 Other sid[0190]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:17:56 Finance sid[0192]: Accepted password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:17:57 Finance sid[0193]: session opened for user Ahmed for sid2[0192]
+Oct 27 11:18:00 Finance sid[0194]: session closed for user Ahmed for sid2[0193]
+Oct 27 11:18:00 Operations sid[0195]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:18:00 Other sid[0197]: Invalid User or Password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:18:00 Sales sid[0199]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:18:00 Other sid[0200]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:18:00 Marketing sid[0201]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:18:00 Marketing sid[0202]: Invalid User or Password for Ameer2 from 10.20.30.11 by qwe.ameer2@gamil.com
+Oct 27 11:18:00 Other sid[0204]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:18:00 Marketing sid[0205]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:18:01 Marketing sid[0206]: session opened for user Alaa for sid2[0205]
+Oct 27 11:18:04 Marketing sid[0207]: session closed for user Alaa for sid2[0206]
+Oct 27 11:18:04 Finance sid[0208]: Accepted password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:18:05 Finance sid[0209]: session opened for user Ahmed for sid2[0208]
+Oct 27 11:18:08 Finance sid[0210]: session closed for user Ahmed for sid2[0209]
+Oct 27 11:18:08 Other sid[0211]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 11:18:11 Sales sid[0214]: session closed for user Ameer
+Oct 27 11:18:11 Other sid[0214]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:18:11 Operations sid[0215]: Accepted password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:18:12 Operations sid[0216]: session opened for user Ali2 for sid2[0215]
+Oct 27 11:18:15 Operations sid[0217]: session closed for user Ali2 for sid2[0216]
+Oct 27 11:18:15 Sales sid[0218]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:18:15 Management sid[0219]: Invalid User/Password for Ahmed2_qwe from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:18:15 Marketing sid[0220]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:18:15 Finance sid[0222]: Accepted password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:18:16 Finance sid[0223]: session opened for user Blal2 for sid2[0222]
+Oct 27 11:18:19 Finance sid[0224]: session closed for user Blal2 for sid2[0223]
+Oct 27 11:18:19 Management sid[0225]: Accepted password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 11:18:20 Management sid[0226]: session opened for user Ali for sid2[0225]
+Oct 27 11:18:23 Management sid[0227]: session closed for user Ali for sid2[0226]
+Oct 27 11:18:23 Marketing sid[0228]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:18:23 Finance sid[0229]: Invalid Admin User Ahmed@Admin from 10.20.30.3 By ahmed@gamil.com
+Oct 27 11:18:23 Sales sid[0231]: Accepted password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:18:24 Sales sid[0232]: session opened for user Ameer for sid2[0231]
+Oct 27 11:18:27 Sales sid[0233]: session closed for user Ameer for sid2[0232]
+Oct 27 11:18:27 Other sid[0234]: Invalid User or Password for Blal from 10.20.30.6 by qwe.blal@gamil.com
+Oct 27 11:18:27 Other sid[0235]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:18:27 Other sid[0236]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:18:27 Management sid[0237]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:18:27 Finance sid[0240]: Invalid Admin User Blal2@Admin from 10.20.30.12 By blal2@gamil.com
+Oct 27 11:18:27 Management sid[0241]: Invalid User/Password for Ali_qwe from 10.20.30.1 by ali@gamil.com
+Oct 27 11:18:27 Marketing sid[0242]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 11:18:28 Marketing sid[0243]: session opened for user Alaa for sid2[0242]
+Oct 27 11:18:31 Marketing sid[0244]: session closed for user Alaa for sid2[0243]
+Oct 27 11:18:31 Finance sid[0245]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 11:18:31 Sales sid[0247]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 11:18:31 Other sid[0248]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 11:18:31 Operations sid[0249]: Invalid User or Password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 11:18:31 Sales sid[0250]: Accepted password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 11:18:32 Sales sid[0251]: session opened for user Alaa2 for sid2[0250]
+Oct 27 11:18:35 Sales sid[0252]: session closed for user Alaa2 for sid2[0251]
+Oct 27 11:18:35 Management sid[0253]: Invalid User/Password for Ahmed2_qwe from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 11:18:35 Other sid[0254]: Accepted password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 11:18:36 Other sid[0255]: session opened for user Mohammad2 for sid2[0254]
+Oct 27 11:18:39 Other sid[0256]: session closed for user Mohammad2 for sid2[0255]
+Oct 27 11:18:39 Other sid[0257]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 11:18:39 Finance sid[0258]: Invalid user/password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 11:18:39 Management sid[0259]: Accepted password for Ali@admin from 10.20.30.1 by ali@gamil.com
+Oct 27 11:18:40 Management sid[0260]: session opened for user Ali for sid2[0259]
+Oct 27 11:18:43 Management sid[0261]: session closed for user Ali for sid2[0260]
+Oct 27 11:18:43 Marketing sid[0262]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 12:57:13 Hallo World
+Oct 27 12:57:13 Management sid[0001]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 12:57:13 Marketing sid[0002]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 12:57:13 Finance sid[0003]: Accepted password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 12:57:14 Finance sid[0004]: session opened for user Ahmed for sid2[0003]
+Oct 27 12:57:17 Finance sid[0005]: session closed for user Ahmed for sid2[0004]
+Oct 27 12:57:17 Management sid[0006]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 12:57:17 Sales sid[0007]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 12:57:17 Management sid[0009]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 12:57:17 Sales sid[0010]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 12:57:17 Management sid[0011]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 12:57:17 Other sid[0012]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 12:57:17 Finance sid[0014]: Invalid User/Password for Blal2_qwe from 10.20.30.12 by blal2@gamil.com
+Oct 27 12:57:17 Operations sid[0015]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 12:57:17 Marketing sid[0016]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 12:57:17 Management sid[0018]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 12:57:17 Sales sid[0019]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 12:57:17 Other sid[0020]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 12:57:17 Management sid[0021]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 12:57:17 Sales sid[0022]: Invalid user/password for Alaa2 from 10.20.30.8 by alaa2@gamil.com
+Oct 27 12:57:17 Management sid[0023]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 12:57:17 Other sid[0024]: Accepted password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 12:57:18 Other sid[0025]: session opened for user Mohammad2 for sid2[0024]
+Oct 27 12:57:21 Other sid[0026]: session closed for user Mohammad2 for sid2[0025]
+Oct 27 12:57:21 Marketing sid[0027]: Accepted password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 12:57:22 Marketing sid[0028]: session opened for user Ameer2 for sid2[0027]
+Oct 27 12:57:25 Marketing sid[0029]: session closed for user Ameer2 for sid2[0028]
+Oct 27 12:57:25 Finance sid[0030]: Invalid user/password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 12:57:25 Operations sid[0031]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 12:57:25 Marketing sid[0032]: Invalid user/password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 12:57:25 Management sid[0033]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 12:57:25 Management sid[0034]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 12:57:25 Sales sid[0035]: Invalid User or Password for Ameer from 10.20.30.5 by qwe.ameer@gamil.com
+Oct 27 12:57:25 Management sid[0036]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 12:57:25 Operations sid[0037]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 12:57:25 Management sid[0039]: Invalid user/password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 12:57:25 Marketing sid[0041]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 12:57:25 Management sid[0043]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 12:57:25 Finance sid[0045]: Accepted password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 12:57:26 Finance sid[0046]: session opened for user Ahmed for sid2[0045]
+Oct 27 12:57:29 Finance sid[0047]: session closed for user Ahmed for sid2[0046]
+Oct 27 12:57:29 Management sid[0048]: Invalid user/password for Mohammad from 10.20.30.4 by mohammad@gamil.com
+Oct 27 12:57:29 Sales sid[0049]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 12:57:29 Management sid[0050]: Invalid Department for Blal from 10.20.30.6 by BLAL@GAMIL.COM
+Oct 27 12:57:29 Operations sid[0051]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 12:57:29 Management sid[0052]: Invalid Department for Alaa2 from 10.20.30.8 by ALAA2@GAMIL.COM
+Oct 27 12:57:29 Management sid[0053]: Accepted password for Ahmed2@admin from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 12:57:30 Management sid[0054]: session opened for user Ahmed2 for sid2[0053]
+Oct 27 12:57:33 Management sid[0055]: session closed for user Ahmed2 for sid2[0054]
+Oct 27 12:57:33 Management sid[0056]: Invalid user/password for Mohammad2 from 10.20.30.10 by mohammad2@gamil.com
+Oct 27 12:57:33 Finance sid[0058]: Accepted password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 12:57:34 Finance sid[0059]: session opened for user Blal2 for sid2[0058]
+Oct 27 13:05:53 Hallo World
+Oct 27 13:05:53 Management sid[0001]: Invalid user/password for Ali from 62.131.242.125 by ALI@GAMIL.COM
+Oct 27 13:05:53 Marketing sid[0002]: Invalid User or Password for Alaa from 10.20.30.2 by qwe.alaa@gamil.com
+Oct 27 13:05:53 Finance sid[0003]: Invalid user/password for Ahmed from 10.20.30.3 by ahmed@gamil.com
+Oct 27 13:05:53 Operations sid[0004]: Invalid User or Password for Mohammad from 10.20.30.4 by qwe.mohammad@gamil.com
+Oct 27 13:05:53 Sales sid[0005]: Accepted password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 13:05:54 Sales sid[0006]: session opened for user Ameer for sid2[0005]
+Oct 27 13:05:57 Sales sid[0007]: session closed for user Ameer for sid2[0006]
+Oct 27 13:05:57 Other sid[0008]: Invalid Admin User Blal@Admin from 10.20.30.6 By blal@gamil.com
+Oct 27 13:05:57 Operations sid[0009]: Invalid user/password for Ali2 from 10.20.30.7 by ali2@gamil.com
+Oct 27 13:05:57 Sales sid[0010]: Invalid User or Password for Alaa2 from 10.20.30.8 by qwe.alaa2@gamil.com
+Oct 27 13:05:57 Management sid[0011]: Accepted password for Ahmed2 from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 13:05:58 Management sid[0012]: session opened for user Ahmed2 for sid2[0011]
+Oct 27 13:06:01 Management sid[0013]: session closed for user Ahmed2 for sid2[0012]
+Oct 27 13:06:01 Other sid[0014]: Invalid User or Password for Mohammad2 from 10.20.30.10 by qwe.mohammad2@gamil.com
+Oct 27 13:06:01 Other sid[0015]: Invalid user/password for Ameer2 from 10.20.30.11 by ameer2@gamil.com
+Oct 27 13:06:01 Finance sid[0016]: Accepted password for Blal2 from 10.20.30.12 by blal2@gamil.com
+Oct 27 13:06:02 Finance sid[0017]: session opened for user Blal2 for sid2[0016]
+Oct 27 13:06:05 Finance sid[0018]: session closed for user Blal2 for sid2[0017]
+Oct 27 13:06:05 Management sid[0019]: Invalid user/password for Ali from 10.20.30.1 by ali@gamil.com
+Oct 27 13:06:05 Marketing sid[0020]: Accepted password for Alaa from 10.20.30.2 by alaa@gamil.com
+Oct 27 13:06:06 Marketing sid[0021]: session opened for user Alaa for sid2[0020]
+Oct 27 13:06:09 Marketing sid[0022]: session closed for user Alaa for sid2[0021]
+Oct 27 13:06:09 Finance sid[0023]: Invalid Admin User Ahmed@Admin from 10.20.30.3 By ahmed@gamil.com
+Oct 27 13:06:09 Sales sid[0025]: Invalid user/password for Ameer from 10.20.30.5 by ameer@gamil.com
+Oct 27 13:06:09 Management sid[0026]: Invalid user/password for Blal from 10.20.30.6 by blal@gamil.com
+Oct 27 13:06:09 Other sid[0027]: Invalid Department for Ali2 from 10.20.30.7 by ALI2@GAMIL.COM
+Oct 27 13:06:09 Other sid[0028]: Invalid Department for Alaa2 from 10.20.30.8 by ALAA2@GAMIL.COM
+Oct 27 13:06:09 Management sid[0029]: Accepted password for Ahmed2@admin from 10.20.30.9 by ahmed2@gamil.com
+Oct 27 13:06:10 Management sid[0030]: session opened for user Ahmed2 for sid2[0029]
